@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Abhinandan323/calculator.git/static/css/main.88d40efa.chunk.css",
+    "main.js": "/Abhinandan323/calculator.git/static/js/main.0269a1e2.chunk.js",
+    "main.js.map": "/Abhinandan323/calculator.git/static/js/main.0269a1e2.chunk.js.map",
+    "runtime-main.js": "/Abhinandan323/calculator.git/static/js/runtime-main.fb81407b.js",
+    "runtime-main.js.map": "/Abhinandan323/calculator.git/static/js/runtime-main.fb81407b.js.map",
+    "static/js/2.29492243.chunk.js": "/Abhinandan323/calculator.git/static/js/2.29492243.chunk.js",
+    "static/js/2.29492243.chunk.js.map": "/Abhinandan323/calculator.git/static/js/2.29492243.chunk.js.map",
+    "static/js/3.708c0d96.chunk.js": "/Abhinandan323/calculator.git/static/js/3.708c0d96.chunk.js",
+    "static/js/3.708c0d96.chunk.js.map": "/Abhinandan323/calculator.git/static/js/3.708c0d96.chunk.js.map",
+    "index.html": "/Abhinandan323/calculator.git/index.html",
+    "static/css/main.88d40efa.chunk.css.map": "/Abhinandan323/calculator.git/static/css/main.88d40efa.chunk.css.map",
+    "static/js/2.29492243.chunk.js.LICENSE.txt": "/Abhinandan323/calculator.git/static/js/2.29492243.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb81407b.js",
+    "static/js/2.29492243.chunk.js",
+    "static/css/main.88d40efa.chunk.css",
+    "static/js/main.0269a1e2.chunk.js"
+  ]
+}
